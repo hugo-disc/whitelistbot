@@ -1,0 +1,7 @@
+{
+    "clientId": "id do bot",
+    "guildId": "id da guilda",
+    "bot_token": "token do bot",
+    "corEmbed": "cor do embed de perguntas",
+    "mensagemFinal": "mensagem final"
+}
